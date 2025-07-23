@@ -12,6 +12,7 @@ A Streamlit-based web application that analyzes Python code for style issues, fo
 
 ## Project Structure
 
+```bash
 ai-code-reviewer/
 ├── app.py
 ├── analysis/
